@@ -1,3 +1,7 @@
 #include <stdio.h>
 
-main{}
+main{
+ printf("chumin stupid \n"); 
+}
+  
+
