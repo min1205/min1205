@@ -1,3 +1,6 @@
 #include <stdio.h>
 
-main{}
+main{
+  
+  printf("you will be die");
+}
